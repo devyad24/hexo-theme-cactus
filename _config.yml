@@ -96,7 +96,7 @@ logo:
   enabled: true
   width: 50
   height: 50
-  url: /images/pixel-heart.png
+  url: /images/pixel-heart.jpg
   gravatar: false
   grayout: true
 
